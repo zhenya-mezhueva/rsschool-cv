@@ -1,3 +1,1 @@
-# rsschool-cv
-
-[](https://zhenya-mezhueva.github.io/rsschool-cv/cv)
+[Markdown & Git](https://zhenya-mezhueva.github.io/rsschool-cv/cv)
