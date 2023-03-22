@@ -52,3 +52,26 @@ function getYears(amount, percent, expectedLimit) {
   return years;
 }
 ```
+
+---
+
+### **Relevant Education:**
+
+**Front-End Developer Course** at [Mate Academy](https://mate.academy/en-eu)
+
+---
+
+### **Relevant Work Expierence:**
+
+- HTML-coder, part-time, ServanTech, Ukraine, 2013 - 2017
+- Front-End Developer, Freysoft, Ukraine - 03/2021 - 04/2022
+
+---
+
+### **Languages:**
+
+- Russian - native
+- Ukrainian - upper-intermediate
+- English - upper-intermediate ([EF SET Sertificate](https://www.efset.org/cert/7Xs5rJ))
+
+![](/images/eng.png)
