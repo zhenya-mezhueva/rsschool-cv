@@ -37,3 +37,18 @@ I have proper understanding of HTML5, CSS3, responsive web design and JavaScript
 ---
 
 ### **Code Example:**
+
+The **getYears** function calculates the maximum loan term (an integer number of years) based on the loan amount (**amount**), annual interest rate (**percent**), and client limit (**limit**).
+
+```
+function getYears(amount, percent, expectedLimit) {
+  let years = 0;
+
+  while (amount + amount * percent / 100 <= expectedLimit) {
+    amount = amount + amount * percent / 100;
+    years++;
+  }
+
+  return years;
+}
+```
