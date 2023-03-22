@@ -24,3 +24,16 @@ I have proper understanding of HTML5, CSS3, responsive web design and JavaScript
 ---
 
 ### **Skills:**
+
+- HTML
+- CSS
+- JavaScript
+- Git
+- React
+- Material UI
+- Jira
+- Linux
+
+---
+
+### **Code Example:**
